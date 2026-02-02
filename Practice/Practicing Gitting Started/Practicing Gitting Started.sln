@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicing Gitting Started", "Practicing Gitting Started\Practicing Gitting Started.csproj", "{6DF421B4-48CE-447D-9ADC-81B80ADD24D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF421B4-48CE-447D-9ADC-81B80ADD24D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF421B4-48CE-447D-9ADC-81B80ADD24D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF421B4-48CE-447D-9ADC-81B80ADD24D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF421B4-48CE-447D-9ADC-81B80ADD24D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2612F08-4807-45EA-B534-84E3EE770029}
+	EndGlobalSection
+EndGlobal
